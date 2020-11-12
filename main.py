@@ -1,0 +1,13 @@
+students = ["Axel",
+            "Algot",
+            "Axel",
+            "Daniel",
+            "Anton",
+            "Dennis",
+            "Filip",
+            "Tage",
+            "Anton",
+            "Lukas",
+            "Max",
+            "Victor",
+            "Hugo"]
